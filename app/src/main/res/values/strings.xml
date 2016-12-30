@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExampleFrag</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_mading">DetailMadingActivity</string>
+    <string name="card_one">This First Card One</string>
+</resources>
